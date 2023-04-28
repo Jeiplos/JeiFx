@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "outDir": "dist",
+      "rootDir": "src",
+      // 其他选项
+    },
+    // 其他选项
+    "include": [
+        "./src/*.ts"
+    ]
+}
